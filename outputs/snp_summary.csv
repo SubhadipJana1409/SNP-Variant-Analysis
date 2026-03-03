@@ -1,0 +1,13 @@
+Metric,Value
+Total SNPs,3800.0
+Transitions,2574.0
+Transversions,1226.0
+Ts/Tv ratio,2.0995
+Mean AF,0.6492
+Mean DP,109.9
+Het calls,2707.0
+Hom-Alt calls,1093.0
+Mean QUAL,64.57
+SNP density (SNPs/kb),0.8176
+Median inter-SNP (bp),857.0
+Clustered pairs,315.0
